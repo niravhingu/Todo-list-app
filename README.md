@@ -26,11 +26,11 @@ script.js
 ## 📸 Project Preview
 
 <p align="center">
-  <img src="todo-app.png" width="400"/>
-  <img src="todo-app2.png" width="400"/>
-  <img src="local-store.png" width="400"/>
+  <img src="todo-list.png" width="400"/> </p>
+ <p align="center"> <img src="todo-list1.png" width="400"/> </p>
+  <p align="center"> <img src="local-store.png" width="400"/> </p>
 </p>
-## How to Use
+How to Use
 
 1. Enter a task in the input box
 2. Click **Add Task** or press **Enter**
